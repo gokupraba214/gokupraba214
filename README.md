@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:F107A3&height=300&section=header&text=Gokulnath%20Prabaharan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Cloud%20Innovator&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:F107A3&height=300&section=header&text=Gokulnath&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
@@ -30,16 +30,7 @@ const gokulnath = {
     pronouns: "He" | "Him",
     location: "🌍 Based in Malaysia",
     education: "🎓 Software Engineering Student",
-    currentRole: "💼 IT Support Specialist @ Micron Technology",
     experience: "3+ years in IT Operations & Support",
-    
-    askMeAbout: [
-        "Full Stack Development",
-        "System Architecture",
-        "Cloud Solutions",
-        "IT Operations",
-        "Troubleshooting"
-    ],
     
     technologies: {
         frontEnd: ["React", "Next.js", "TypeScript", "HTML5", "CSS3"],
