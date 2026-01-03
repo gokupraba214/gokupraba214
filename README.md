@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:F107A3&height=300&section=header&text=GOKULNATH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:F107A3&height=200&section=header&text=GOKULNATH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
@@ -105,19 +105,6 @@ const gokulnath = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokupraba214/gokupraba214/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gokupraba214/gokupraba214/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  
-  <a href="https://github.com/gokupraba214/Silder"><strong>Slider Project</strong></a><br/>
-  <a href="https://github.com/gokupraba214/DJ-Booking-System"><strong>DJ Booking System</strong></a><br/>
-  <a href="https://github.com/gokupraba214/Involve-Asia-Form"><strong>Involve Asia Form</strong></a>
 </div>
 
 <div align="center">
