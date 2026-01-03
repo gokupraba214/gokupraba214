@@ -95,17 +95,17 @@ const gokulnath = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://gh-stats-gen.vercel.app/api/gokupraba214?theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://gh-stats-gen.vercel.app/api/streak/gokupraba214?theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FF7&fire=F107A3&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokupraba214&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=gokupraba214&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FF7&fire=F107A3&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://gh-stats-gen.vercel.app/api/top-langs/gokupraba214?theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://gh-stats-gen.vercel.app/api/activity-graph/gokupraba214?theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=F107A3" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokupraba214&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gokupraba214&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=F107A3" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://gh-stats-gen.vercel.app/api/profile-details/gokupraba214?theme=radical" width="98%" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokupraba214&theme=radical" width="98%" alt="Profile Summary" />
 </div>
 
 <div align="center">
@@ -151,9 +151,9 @@ const gokulnath = {
 
 <div align="center">
   
-[![Slider Project](https://gh-stats-gen.vercel.app/api/pin/?username=gokupraba214&repo=Silder&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/Silder)
-[![DJ Booking System](https://gh-stats-gen.vercel.app/api/pin/?username=gokupraba214&repo=DJ-Booking-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/DJ-Booking-System)
-[![Involve Asia Form](https://gh-stats-gen.vercel.app/api/pin/?username=gokupraba214&repo=Involve-Asia-Form&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/Involve-Asia-Form)
+[![Slider Project](https://github-readme-stats.vercel.app/api/pin/?username=gokupraba214&repo=Silder&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/Silder)
+[![DJ Booking System](https://github-readme-stats.vercel.app/api/pin/?username=gokupraba214&repo=DJ-Booking-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/DJ-Booking-System)
+[![Involve Asia Form](https://github-readme-stats.vercel.app/api/pin/?username=gokupraba214&repo=Involve-Asia-Form&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/Involve-Asia-Form)
 
 </div>
 
