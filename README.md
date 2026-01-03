@@ -114,11 +114,11 @@ const gokulnath = {
 ## 📈 My GitHub contributions summary
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokupraba214&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FF7&fire=F107A3&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/demo/?user=gokupraba214&theme=dark&hide_border=true&border_radius=4.5&locale=en&date_format=&mode=daily&type=svg&background-type=solid&properties=background" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokupraba214&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokupraba214&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=fb4362&icon_color=fb4362&text_color=ffffff" alt="GitHub Stats" />
 </div>
 
 <div align="center">
