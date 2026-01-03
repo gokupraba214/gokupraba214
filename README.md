@@ -114,7 +114,7 @@ const gokulnath = {
 ## 📈 My GitHub contributions summary
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/demo/?user=gokupraba214&theme=dark&hide_border=true&border_radius=4.5&locale=en&date_format=&mode=daily&type=svg&background-type=solid&properties=background" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=gokupraba214&theme=dark" alt="GitHub Streak" />
 </div>
 
 <div align="center">
