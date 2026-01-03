@@ -118,10 +118,6 @@ const gokulnath = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokupraba214&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=fb4362&icon_color=fb4362&text_color=ffffff" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
