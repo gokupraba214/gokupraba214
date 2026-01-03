@@ -23,10 +23,10 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```typescript
-const gokulnath = {
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <pre lang="typescript"><code>const gokulnath = {
     pronouns: "He" | "Him",
     location: "🌍 Based in Malaysia",
     education: "🎓 Software Engineering Student",
@@ -42,10 +42,13 @@ const gokulnath = {
     },
     
     funFact: "I debug in my sleep! 😴💻"
-};
-```
-
-<br clear="right"/>
+};</code></pre>
+    </td>
+    <td valign="top" width="40%">
+      <img alt="Coding" width="100%" style="max-width: 420px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
