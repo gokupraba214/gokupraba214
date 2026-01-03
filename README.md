@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:F107A3&height=300&section=header&text=Gokulnath&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:F107A3&height=300&section=header&text=Gokulnath&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=An+IT+Specialist+evolving+into+a+Software+Engineer.;Transitioning+from+system+troubleshooting+to+full-stack+innovation.;Software+Engineering+student+with+a+battle-tested+background+in+IT+operations.;Crafting+code+with+the+precision+of+a+seasoned+IT+professional." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=An+IT+Specialist+evolving+into+a+Software+Engineer.;Transitioning+from+system+troubleshooting+to+full-stack+innovation." alt="Typing SVG" />
   </a>
 </p>
 
