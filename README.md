@@ -45,7 +45,7 @@
 };</code></pre>
     </td>
     <td valign="top" width="40%">
-      <img alt="Coding" width="100%" style="max-width: 420px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+      <img alt="Coding" width="100%" height="280" style="max-width: 420px; height: 280px; object-fit: cover; display: block;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
     </td>
   </tr>
 </table>
