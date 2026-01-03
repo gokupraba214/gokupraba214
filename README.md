@@ -141,10 +141,9 @@ const gokulnath = {
 
 ## 🎯 Current Goals
 
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **AWS Cloud Architecture** and **Microservices**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Next.js, Node.js, IT Operations**
+- 🔭 Currently learning **Full-Stack Development**
+- 🌱 Building the core fundamentals to become a **Software Engineer**
+- 💬 Ask me about **IT troubleshooting**
 - ⚡ Fun fact: **I can troubleshoot systems faster than I can order coffee!** ☕
 
 <div align="center">
