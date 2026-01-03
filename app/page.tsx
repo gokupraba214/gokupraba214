@@ -5,7 +5,11 @@ import { Card } from "@/components/ui/card"
 
 export default function ReadmePreview() {
   const [typedText, setTypedText] = useState("")
-  const roles = ["Full Stack Developer", "UI/UX Enthusiast", "Open Source Contributor", "Problem Solver"]
+  const roles = [
+    "Software Engineer | Full Stack Developer",
+    "3+ Years IT Support Specialist",
+    "Building Scalable Full-Stack Solutions",
+  ]
   const [currentRoleIndex, setCurrentRoleIndex] = useState(0)
   const [isDeleting, setIsDeleting] = useState(false)
   const [quote, setQuote] = useState({ text: "", author: "" })
@@ -64,7 +68,7 @@ export default function ReadmePreview() {
         <div className="text-center py-12">
           <div className="relative inline-block">
             <h1 className="text-6xl font-bold bg-gradient-to-r from-cyan-400 via-purple-500 to-pink-500 bg-clip-text text-transparent animate-gradient">
-              Gokul Praba
+              Gokulnath Prabaharan
             </h1>
             <div className="absolute -inset-1 bg-gradient-to-r from-cyan-400 via-purple-500 to-pink-500 rounded-lg blur opacity-25 animate-pulse" />
           </div>
@@ -88,20 +92,262 @@ export default function ReadmePreview() {
 
         {/* About Section */}
         <Card className="p-8 bg-gray-800/50 border-cyan-500/30 backdrop-blur">
-          <h2 className="text-3xl font-bold mb-4 bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent">
+          <h2 className="text-3xl font-bold mb-6 bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent flex items-center gap-3">
+            <span className="text-4xl">🚀</span>
             About Me
           </h2>
-          <p className="text-gray-300 leading-relaxed">
-            Passionate developer with expertise in modern web technologies. I love building scalable applications and
-            contributing to open source projects. Always learning, always coding.
-          </p>
+
+          <div className="grid md:grid-cols-2 gap-8 items-center">
+            {/* Code Object */}
+            <div className="bg-gray-900/80 rounded-lg p-6 font-mono text-sm border border-cyan-500/20">
+              <pre className="text-cyan-400">
+                <span className="text-purple-400">const</span> <span className="text-yellow-400">gokulnath</span> ={" "}
+                {"{\n"}
+                <span className="text-green-400"> pronouns:</span> <span className="text-orange-400">"He"</span> |{" "}
+                <span className="text-orange-400">"Him"</span>,{"\n"}
+                <span className="text-green-400"> location:</span>{" "}
+                <span className="text-orange-400">"🌍 Based in Malaysia"</span>,{"\n"}
+                <span className="text-green-400"> education:</span>{" "}
+                <span className="text-orange-400">"🎓 Software Engineering Student"</span>,{"\n"}
+                <span className="text-green-400"> currentRole:</span>{" "}
+                <span className="text-orange-400">"💼 IT Support Specialist @ Micron Technology"</span>,{"\n"}
+                <span className="text-green-400"> experience:</span>{" "}
+                <span className="text-orange-400">"3+ years in IT Operations & Support"</span>,{"\n"}
+                {"\n"}
+                <span className="text-green-400"> askMeAbout:</span> {"[\n"}
+                <span className="text-orange-400"> "Full Stack Development",{"\n"}</span>
+                <span className="text-orange-400"> "System Architecture",{"\n"}</span>
+                <span className="text-orange-400"> "Cloud Solutions",{"\n"}</span>
+                <span className="text-orange-400"> "IT Operations",{"\n"}</span>
+                <span className="text-orange-400"> "Troubleshooting"</span>
+                {"\n"}
+                {"  ],\n"}
+                {"\n"}
+                <span className="text-green-400"> technologies:</span> {"{\n"}
+                <span className="text-blue-400"> frontEnd:</span>{" "}
+                <span className="text-orange-400">["React", "Next.js", "TypeScript", "HTML5", "CSS3"]</span>,{"\n"}
+                <span className="text-blue-400"> backEnd:</span>{" "}
+                <span className="text-orange-400">["Node.js", "Java", "REST APIs"]</span>,{"\n"}
+                <span className="text-blue-400"> databases:</span>{" "}
+                <span className="text-orange-400">["MySQL", "Firebase"]</span>,{"\n"}
+                <span className="text-blue-400"> cloudAndHosting:</span>{" "}
+                <span className="text-orange-400">["Vercel", "Render", "Firebase"]</span>,{"\n"}
+                <span className="text-blue-400"> toolsAndPlatforms:</span>{" "}
+                <span className="text-orange-400">["Git", "GitHub", "VS Code", "Figma"]</span>
+                {"\n"}
+                {"  }\n"}
+                {"};"}
+              </pre>
+            </div>
+
+            {/* Animated Illustration */}
+            <div className="relative h-80 bg-gradient-to-br from-cyan-500/5 to-purple-500/5 rounded-lg overflow-hidden border border-cyan-500/20">
+              {/* Desk */}
+              <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-b from-gray-700/80 to-gray-800/80 rounded-t-3xl" />
+
+              {/* Developer (person from behind) */}
+              <div className="absolute bottom-32 left-1/2 -translate-x-1/2 z-20">
+                {/* Head */}
+                <div className="w-16 h-20 bg-gradient-to-b from-gray-800 to-gray-900 rounded-t-full relative">
+                  {/* Hair */}
+                  <div className="absolute top-0 left-0 right-0 h-12 bg-gray-900 rounded-t-full" />
+                </div>
+                {/* Body */}
+                <div className="w-24 h-20 bg-gradient-to-b from-cyan-700 to-cyan-800 rounded-b-lg -mt-2" />
+                {/* Arms */}
+                <div className="absolute top-12 -left-4 w-6 h-16 bg-cyan-700 rounded-lg transform -rotate-12" />
+                <div className="absolute top-12 -right-4 w-6 h-16 bg-cyan-700 rounded-lg transform rotate-12" />
+              </div>
+
+              {/* Monitors */}
+              <div className="absolute top-12 left-8 w-32 h-24 bg-gray-900 rounded-lg border-4 border-gray-700 z-10 transform -rotate-6">
+                {/* Screen content - animated */}
+                <div className="w-full h-full bg-gradient-to-br from-cyan-500/20 to-purple-500/20 p-2 overflow-hidden">
+                  <div className="space-y-1">
+                    <div className="h-1 bg-cyan-400/60 rounded animate-pulse" style={{ animationDelay: "0s" }} />
+                    <div className="h-1 bg-purple-400/60 rounded animate-pulse" style={{ animationDelay: "0.2s" }} />
+                    <div
+                      className="h-1 bg-cyan-400/60 rounded w-3/4 animate-pulse"
+                      style={{ animationDelay: "0.4s" }}
+                    />
+                    <div
+                      className="h-1 bg-purple-400/60 rounded w-1/2 animate-pulse"
+                      style={{ animationDelay: "0.6s" }}
+                    />
+                  </div>
+                </div>
+              </div>
+
+              <div className="absolute top-8 right-8 w-36 h-28 bg-gray-900 rounded-lg border-4 border-gray-700 z-10 transform rotate-6">
+                {/* Screen content - animated chart */}
+                <div className="w-full h-full bg-gradient-to-br from-green-500/20 to-blue-500/20 p-2 flex items-end gap-1">
+                  {[40, 65, 45, 80, 55, 90, 70].map((height, i) => (
+                    <div
+                      key={i}
+                      className="flex-1 bg-gradient-to-t from-green-400 to-cyan-400 rounded-t animate-grow"
+                      style={{
+                        height: `${height}%`,
+                        animationDelay: `${i * 0.1}s`,
+                      }}
+                    />
+                  ))}
+                </div>
+              </div>
+
+              <div className="absolute top-20 left-1/2 -translate-x-1/2 w-40 h-32 bg-gray-900 rounded-lg border-4 border-gray-700 z-10">
+                {/* Main screen - animated terminal */}
+                <div className="w-full h-full bg-black p-2 overflow-hidden">
+                  <div className="space-y-1 font-mono text-[6px]">
+                    <div className="text-green-400 animate-type">$ npm run dev</div>
+                    <div className="text-cyan-400 animate-type" style={{ animationDelay: "0.5s" }}>
+                      Starting development server...
+                    </div>
+                    <div className="text-yellow-400 animate-type" style={{ animationDelay: "1s" }}>
+                      ✓ Compiled successfully
+                    </div>
+                    <div className="text-green-400 animate-type" style={{ animationDelay: "1.5s" }}>
+                      Ready on http://localhost:3000
+                    </div>
+                  </div>
+                  <div className="mt-2 w-2 h-2 bg-green-400 animate-pulse" />
+                </div>
+              </div>
+
+              {/* Keyboard */}
+              <div className="absolute bottom-32 left-1/2 -translate-x-1/2 w-32 h-8 bg-gray-800 rounded-lg z-10">
+                <div className="grid grid-cols-8 gap-0.5 p-1">
+                  {Array.from({ length: 24 }).map((_, i) => (
+                    <div
+                      key={i}
+                      className="bg-gray-700 rounded-sm animate-key-press"
+                      style={{ animationDelay: `${Math.random() * 2}s` }}
+                    />
+                  ))}
+                </div>
+              </div>
+
+              {/* Mouse */}
+              <div className="absolute bottom-36 right-1/4 w-6 h-8 bg-gray-800 rounded-t-lg rounded-b-xl z-10">
+                <div className="w-1 h-3 bg-gray-600 mx-auto mt-1 rounded-full" />
+              </div>
+
+              {/* Coffee Cup */}
+              <div className="absolute bottom-32 right-12 w-8 h-10 bg-gradient-to-b from-amber-800 to-amber-900 rounded-b-lg z-10">
+                <div className="w-10 h-3 bg-amber-800 rounded-t-lg -mx-1" />
+                <div className="absolute -right-2 top-2 w-3 h-4 border-2 border-amber-800 rounded-r-full" />
+                {/* Steam animation */}
+                <div className="absolute -top-6 left-1/2 -translate-x-1/2">
+                  <div className="w-1 h-4 bg-gray-400/40 rounded-full animate-steam" />
+                  <div
+                    className="w-1 h-4 bg-gray-400/40 rounded-full animate-steam ml-2"
+                    style={{ animationDelay: "0.5s" }}
+                  />
+                </div>
+              </div>
+
+              {/* Floating particles */}
+              {[...Array(6)].map((_, i) => (
+                <div
+                  key={i}
+                  className="absolute w-1 h-1 bg-cyan-400 rounded-full animate-float"
+                  style={{
+                    left: `${Math.random() * 100}%`,
+                    top: `${Math.random() * 100}%`,
+                    animationDelay: `${Math.random() * 3}s`,
+                    animationDuration: `${3 + Math.random() * 2}s`,
+                  }}
+                />
+              ))}
+            </div>
+          </div>
+
+          <div className="text-gray-300 leading-relaxed space-y-2 mt-8">
+            <p>
+              <span className="text-2xl">🎓</span> Currently pursuing a <strong>Software Engineering Degree</strong>
+            </p>
+            <p>
+              <span className="text-2xl">🛠️</span> <strong>3 years of IT support experience</strong> at{" "}
+              <strong>Micron Technology</strong>
+            </p>
+            <p>
+              <span className="text-2xl">🏢</span> Specialized in <strong>incident management</strong>,{" "}
+              <strong>system troubleshooting</strong>, and <strong>IT operations</strong>
+            </p>
+            <p>
+              <span className="text-2xl">🚀</span> Passionate about building <strong>scalable applications</strong> and{" "}
+              <strong>full-stack solutions</strong>
+            </p>
+            <p>
+              <span className="text-2xl">⚡</span> Fun fact: I can troubleshoot systems faster than I can order coffee!
+              ☕
+            </p>
+          </div>
+        </Card>
+
+        <Card className="p-8 bg-gradient-to-br from-blue-500/10 to-purple-500/10 border-blue-500/30 backdrop-blur">
+          <h2 className="text-3xl font-bold mb-6 text-center bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
+            💼 Professional Experience
+          </h2>
+          <div className="space-y-4">
+            <div className="flex items-start gap-4">
+              <div className="flex-shrink-0 w-16 h-16 bg-blue-500/20 rounded-lg flex items-center justify-center">
+                <span className="text-3xl">💼</span>
+              </div>
+              <div className="flex-1">
+                <h3 className="text-xl font-bold text-blue-400">Micron Technology</h3>
+                <p className="text-gray-400 text-sm mb-2">IT Support Specialist | 2021 - Present</p>
+                <ul className="text-gray-300 space-y-1 text-sm">
+                  <li>
+                    💻 Specialized in <strong>incident management</strong> & <strong>system troubleshooting</strong>
+                  </li>
+                  <li>
+                    ⚙️ 3+ years managing <strong>IT operations</strong> and <strong>infrastructure</strong>
+                  </li>
+                  <li>🔧 Expert in resolving complex technical issues efficiently</li>
+                  <li>🤝 Supporting teams with seamless IT solutions</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </Card>
+
+        <Card className="p-8 bg-gradient-to-br from-purple-500/10 to-pink-500/10 border-purple-500/30 backdrop-blur">
+          <h2 className="text-3xl font-bold mb-6 bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent">
+            🎯 Current Goals
+          </h2>
+          <ul className="text-gray-300 space-y-3">
+            <li className="flex items-start gap-3">
+              <span className="text-2xl">🔭</span>
+              <span>
+                Currently learning <strong>Full Stack Development</strong>
+              </span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="text-2xl">🌱</span>
+              <span>
+                Exploring <strong>AWS Cloud Architecture</strong> and <strong>Microservices</strong>
+              </span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="text-2xl">👯</span>
+              <span>
+                Looking to collaborate on <strong>Open Source Projects</strong>
+              </span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="text-2xl">💬</span>
+              <span>
+                Open to discuss <strong>new projects</strong> and <strong>opportunities</strong>
+              </span>
+            </li>
+          </ul>
         </Card>
 
         <Card className="p-8 bg-gradient-to-br from-amber-500/10 to-orange-500/10 border-amber-500/30 backdrop-blur overflow-hidden relative">
           <div className="absolute top-0 right-0 text-9xl text-amber-500/10 font-serif">"</div>
           <div className="relative z-10">
             <h2 className="text-2xl font-bold mb-4 bg-gradient-to-r from-amber-400 to-orange-500 bg-clip-text text-transparent">
-              Random Dev Quote
+              💭 Random Dev Quote
             </h2>
             <blockquote className="text-lg text-gray-300 italic leading-relaxed mb-4">"{quote.text}"</blockquote>
             <p className="text-right text-amber-400 font-semibold">— {quote.author}</p>
@@ -296,7 +542,7 @@ export default function ReadmePreview() {
         {/* Footer */}
         <div className="text-center py-8">
           <p className="text-gray-400">
-            Made with <span className="text-red-500 animate-pulse">♥</span> by Gokul Praba
+            Made with <span className="text-red-500 animate-pulse">♥</span> by Gokulnath Prabaharan
           </p>
         </div>
       </div>
@@ -316,6 +562,75 @@ export default function ReadmePreview() {
         }
         .animate-blink {
           animation: blink 1s step-end infinite;
+        }
+        @keyframes grow {
+          from {
+            height: 0%;
+          }
+          to {
+            height: var(--height);
+          }
+        }
+        .animate-grow {
+          animation: grow 1.5s ease-out forwards;
+          --height: 100%;
+        }
+        @keyframes type {
+          from {
+            opacity: 0;
+            transform: translateX(-10px);
+          }
+          to {
+            opacity: 1;
+            transform: translateX(0);
+          }
+        }
+        .animate-type {
+          animation: type 0.5s ease-out forwards;
+          opacity: 0;
+        }
+        @keyframes key-press {
+          0%, 90% {
+            transform: translateY(0);
+            background-color: rgb(55, 65, 81);
+          }
+          95% {
+            transform: translateY(1px);
+            background-color: rgb(96, 165, 250);
+          }
+          100% {
+            transform: translateY(0);
+            background-color: rgb(55, 65, 81);
+          }
+        }
+        .animate-key-press {
+          animation: key-press 3s ease-in-out infinite;
+        }
+        @keyframes steam {
+          0% {
+            opacity: 0.6;
+            transform: translateY(0) scale(1);
+          }
+          100% {
+            opacity: 0;
+            transform: translateY(-20px) scale(1.5);
+          }
+        }
+        .animate-steam {
+          animation: steam 2s ease-out infinite;
+        }
+        @keyframes float {
+          0%, 100% {
+            transform: translateY(0px) translateX(0px);
+            opacity: 0;
+          }
+          50% {
+            transform: translateY(-20px) translateX(10px);
+            opacity: 1;
+          }
+        }
+        .animate-float {
+          animation: float 4s ease-in-out infinite;
         }
       `}</style>
     </div>
