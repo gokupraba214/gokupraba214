@@ -92,47 +92,8 @@ const gokulnath = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokupraba214&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=gokupraba214&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FF7&fire=F107A3&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokupraba214&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gokupraba214&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=F107A3" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokupraba214&theme=radical" width="98%" alt="Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gokupraba214&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&rank=-C,-?" width="98%" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokupraba214&bg_color=0d1117&color=00d9ff&line=7b2ff7&point=f107a3&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  
-  [![Gokulnath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokupraba214&theme=react-dark&hide_border=true&area=true)](https://github.com/gokupraba214)
-  
-</div>
 
 <!-- Snake Animation -->
 <div align="center">
