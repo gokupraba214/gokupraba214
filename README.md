@@ -93,7 +93,7 @@ const gokulnath = {
 </div>
 
 
-## �📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokupraba214&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=F107A3" width="98%" alt="Contribution Graph" />
