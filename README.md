@@ -92,13 +92,6 @@ const gokulnath = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokupraba214&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=7B2FF7&point=F107A3" width="98%" alt="Contribution Graph" />
-</div>
-
 <!-- Snake Animation -->
 <div align="center">
   <picture>
@@ -116,10 +109,9 @@ const gokulnath = {
 
 <div align="center">
   
-[![Slider Project](https://github-readme-stats.vercel.app/api/pin/?username=gokupraba214&repo=Silder&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/Silder)
-[![DJ Booking System](https://github-readme-stats.vercel.app/api/pin/?username=gokupraba214&repo=DJ-Booking-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/DJ-Booking-System)
-[![Involve Asia Form](https://github-readme-stats.vercel.app/api/pin/?username=gokupraba214&repo=Involve-Asia-Form&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/Involve-Asia-Form)
-
+  <a href="https://github.com/gokupraba214/Silder"><strong>Slider Project</strong></a><br/>
+  <a href="https://github.com/gokupraba214/DJ-Booking-System"><strong>DJ Booking System</strong></a><br/>
+  <a href="https://github.com/gokupraba214/Involve-Asia-Form"><strong>Involve Asia Form</strong></a>
 </div>
 
 <div align="center">
@@ -139,14 +131,6 @@ const gokulnath = {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 💭 Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
-
 </div>
 
 <div align="center">
@@ -202,7 +186,5 @@ No activity tracked
 <div align="center">
   
   ### Show some ❤️ by starring ⭐ some repositories!
-  
-  ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
   
 </div>
