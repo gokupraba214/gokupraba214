@@ -20,25 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="./github-metrics.svg" width="85%" alt="GitHub Metrics" />
-</div>
-
-<div align="center">
-
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-00D9FF?style=for-the-badge)](https://gokupraba214.github.io)
-  [![Resume](https://img.shields.io/badge/RESUME-Download-7B2FF7?style=for-the-badge)](https://drive.google.com)
-  [![Email](https://img.shields.io/badge/EMAIL-Contact-F107A3?style=for-the-badge)](mailto:gokupraba2142@gmail.com)
-
-</div>
-
-<div align="center">
-
-| ⚡ Focus | 🧩 What I Do |
-|---|---|
-| Full-stack development | Build clean UIs + solid APIs |
-| AWS & Cloud | Learning architecture & deployment |
-| System thinking | From IT troubleshooting to engineering |
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## 🚀 About Me
@@ -63,10 +45,11 @@ const gokulnath = {
 };
 ```
 
-## ️ Tech Stack & Tools
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-<details>
-<summary><strong>Open Tech Stack</strong></summary>
+## ️ Tech Stack & Tools
 
 <div align="center">
 
@@ -105,7 +88,9 @@ const gokulnath = {
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,nodejs,react,nextjs,mysql,firebase,pandas,git,github,vscode,figma,vercel&perline=8" />
 </div>
 
-</details>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <!-- Snake Animation -->
 <div align="center">
@@ -116,13 +101,21 @@ const gokulnath = {
   </picture>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## 🚀 Featured Projects
 
 <div align="center">
   
-  [![Slider Project](https://img.shields.io/badge/Slider_Project-View-00D9FF?style=for-the-badge)](https://github.com/gokupraba214/Silder)
-  [![DJ Booking System](https://img.shields.io/badge/DJ_Booking_System-View-7B2FF7?style=for-the-badge)](https://github.com/gokupraba214/DJ-Booking-System)
-  [![Involve Asia Form](https://img.shields.io/badge/Involve_Asia_Form-View-F107A3?style=for-the-badge)](https://github.com/gokupraba214/Involve-Asia-Form)
+  <a href="https://github.com/gokupraba214/Silder"><strong>Slider Project</strong></a><br/>
+  <a href="https://github.com/gokupraba214/DJ-Booking-System"><strong>DJ Booking System</strong></a><br/>
+  <a href="https://github.com/gokupraba214/Involve-Asia-Form"><strong>Involve Asia Form</strong></a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## 📫 Let's Connect!
@@ -136,13 +129,25 @@ const gokulnath = {
 
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## 🎯 Current Goals
 
-- 🔭 Currently working / learning **Full Stack Development**
+- 🔭 Currently working on **Full Stack Web Applications**
 - 🌱 Learning **AWS Cloud Architecture** and **Microservices**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Discuss with me for a **new project**
+- 💬 Ask me about **React, Next.js, Node.js, IT Operations**
 - ⚡ Fun fact: **I can troubleshoot systems faster than I can order coffee!** ☕
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 📊 Weekly Development Breakdown
 
@@ -157,6 +162,10 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
   <h3>💖 Support My Work</h3>
