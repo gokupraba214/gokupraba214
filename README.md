@@ -47,28 +47,7 @@ const gokulnath = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 💼 Professional Experience
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/96/micron-technology.png" width="48" height="48" alt="Micron" />
-      <br><strong>Micron Technology</strong>
-    </td>
-    <td>
-      <strong>IT Support Specialist</strong> | 2021 - Present<br>
-      ✨ Specialized in incident management & system troubleshooting<br>
-      ✨ 3+ years managing IT operations and infrastructure<br>
-      ✨ Expert in resolving complex technical issues efficiently
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🛠️ Tech Stack & Tools
+## ️ Tech Stack & Tools
 
 <div align="center">
 
