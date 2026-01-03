@@ -151,9 +151,9 @@ const gokulnath = {
 
 <div align="center">
   
-[![Slider Project](https://github-readme-stats.vercel.app/api/pin/?username=gokupraba214&repo=Silder&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/Silder)
-[![DJ Booking System](https://github-readme-stats.vercel.app/api/pin/?username=gokupraba214&repo=DJ-Booking-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/DJ-Booking-System)
-[![Involve Asia Form](https://github-readme-stats.vercel.app/api/pin/?username=gokupraba214&repo=Involve-Asia-Form&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/Involve-Asia-Form)
+[![Slider Project](https://gh-stats-gen.vercel.app/api/pin/?username=gokupraba214&repo=Silder&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/Silder)
+[![DJ Booking System](https://gh-stats-gen.vercel.app/api/pin/?username=gokupraba214&repo=DJ-Booking-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/DJ-Booking-System)
+[![Involve Asia Form](https://gh-stats-gen.vercel.app/api/pin/?username=gokupraba214&repo=Involve-Asia-Form&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/gokupraba214/Involve-Asia-Form)
 
 </div>
 
