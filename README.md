@@ -92,11 +92,6 @@ const gokulnath = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokupraba214&bg_color=0d1117&color=00d9ff&line=7b2ff7&point=f107a3&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
-</div>
 
 <!-- Snake Animation -->
 <div align="center">
