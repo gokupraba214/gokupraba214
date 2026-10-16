@@ -93,14 +93,17 @@ const gokulnath = {
 </div>
 
 
+
 ## 📈 Contribution Graph
 
-<!-- BEGIN ACTIVITY-GRAPH -->
-<picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>
-<!-- END ACTIVITY-GRAPH -->
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/gokupraba214/gokupraba214/output/activity-graph.svg"
+    width="98%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</div>
+
 
 <!-- Snake Animation -->
 <div align="center">
