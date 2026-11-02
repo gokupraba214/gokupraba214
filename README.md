@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gokulnath-prabaharan-1a95b4171/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gokupraba2142@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:gokupraba214@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/gokupraba214?tab=followers"><img src="https://img.shields.io/github/followers/gokupraba214?style=for-the-badge&logo=github&label=Followers&color=7B2FF7" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=gokupraba214&style=for-the-badge&color=F107A3&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -172,7 +172,7 @@ const gokulnath = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gokulnath-prabaharan-1a95b4171/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gokupraba2142@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:gokupraba214@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/gokupraba214"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
