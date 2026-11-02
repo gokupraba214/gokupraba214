@@ -9,7 +9,7 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches: [main, devin/1793637308-profile-refresh]
+    branches: [main]
     paths:
       - ".github/workflows/profile-assets.yml"
 
