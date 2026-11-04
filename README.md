@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:F107A3&height=220&section=header&text=GOKULNATH&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=IT%20Specialist%20%E2%80%A2%20Cloud%20and%20DevOps%20%E2%80%A2%20Cybersecurity&descSize=18&descAlignY=56&descAlign=50" width="100%" alt="Gokulnath header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:F107A3&height=220&section=header&text=GOKULNATH&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=IT%20Specialist%20%E2%80%A2%20Cloud%20and%20Software Engineer%20%E2%80%A2%20Cybersecurity&descSize=18&descAlignY=56&descAlign=50" width="100%" alt="Gokulnath header" />
 </div>
 
 <p align="center">
@@ -55,7 +55,7 @@ const gokulnath = {
 
 - 🛠️ **3+ years** in IT Operations & Support
 - 🎓 Software Engineering Student
-- ☁️ Heading towards **Cloud & DevOps**
+- ☁️ Heading towards **Cloud & software engineer**
 - 🔐 Building **Cybersecurity** fundamentals
 - 🌍 Based in **Malaysia**
 
