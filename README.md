@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:F107A3&height=220&section=header&text=GOKULNATH&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=IT%20Specialist%20%E2%80%A2%20Cloud%20and%20SoftwareEngineer%20%E2%80%A2%20Cybersecurity&descSize=18&descAlignY=56&descAlign=50" width="100%" alt="Gokulnath header" />
-</div>
-
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:F107A3&height=220&section=header&text=GOKULNATH&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=IT%20Specialist%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20CyberSecurity&descSize=18&descAlignY=56&descAlign=50" width="100%" alt="Gokulnath header" />
+  
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=An+IT+Specialist+evolving+towards+Cloud+and+Software+Engineer.;Exploring+Cloud+Computing%2C+Automation+and+Cybersecurity." alt="Typing SVG" />
