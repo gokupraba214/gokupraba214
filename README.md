@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:F107A3&height=220&section=header&text=GOKULNATH&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=IT%20Specialist%20%E2%80%A2%20Cloud%20and%20Software Engineer%20%E2%80%A2%20Cybersecurity&descSize=18&descAlignY=56&descAlign=50" width="100%" alt="Gokulnath header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:F107A3&height=220&section=header&text=GOKULNATH&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=IT%20Specialist%20%E2%80%A2%20Cloud%20and%20SoftwareEngineer%20%E2%80%A2%20Cybersecurity&descSize=18&descAlignY=56&descAlign=50" width="100%" alt="Gokulnath header" />
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=An+IT+Specialist+evolving+towards+Cloud+and+DevOps.;Exploring+Cloud+Computing%2C+Automation+and+Cybersecurity." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=An+IT+Specialist+evolving+towards+Cloud+and+Software+Engineer.;Exploring+Cloud+Computing%2C+Automation+and+Cybersecurity." alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@ const gokulnath = {
         backEnd: ["Node.js", "Java", "REST APIs"],
         databases: ["MySQL", "Firebase"],
         tools: ["Git", "VS Code", "Vercel", "Render"],
-        cloud: ["AWS", "Cloud Computing", "DevOps"],
+        cloud: ["AWS", "Cloud Computing"],
         currentlyLearning: [
             "AWS re/Start",
             "Google Cybersecurity",
@@ -55,7 +55,7 @@ const gokulnath = {
 
 - 🛠️ **3+ years** in IT Operations & Support
 - 🎓 Software Engineering Student
-- ☁️ Heading towards **Cloud & software engineer**
+- ☁️ Heading towards **Cloud & Software Engineer**
 - 🔐 Building **Cybersecurity** fundamentals
 - 🌍 Based in **Malaysia**
 
@@ -133,7 +133,7 @@ const gokulnath = {
 
 ## 🎯 Current Goals
 
-- ☁️ Exploring **Cloud Computing and DevOps**
+- ☁️ Exploring **Cloud Computing and Software Engineering**
 - 🚀 Participating in the **AWS re/Start program**
 - 🔐 Learning through the **Google Cybersecurity program**
 - 💬 Ask me about **IT troubleshooting**
